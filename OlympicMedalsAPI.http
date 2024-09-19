@@ -1,0 +1,6 @@
+@OlympicMedalsAPI_HostAddress = http://localhost:5104
+
+GET {{OlympicMedalsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

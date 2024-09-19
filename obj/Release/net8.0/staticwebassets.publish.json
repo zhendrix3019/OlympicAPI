@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "e4Bx1ZHHb8g3PpgRnf3Sy2dh99yvjlcwVmA8Dt4WLgc=",
+  "Source": "OlympicMedalsAPI",
+  "BasePath": "_content/OlympicMedalsAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OlympicMedalsAPI\\wwwroot",
+      "Source": "OlympicMedalsAPI",
+      "ContentRoot": "C:\\Users\\zhend\\AdvancedWeb\\OlympicMedalsAPI\\wwwroot\\",
+      "BasePath": "_content/OlympicMedalsAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
